@@ -1,0 +1,43 @@
+.welcome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.welcome__info {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.welcome__info>h4, .welcome__info>h2 {
+    text-align: center;
+}
+
+.welcome__image {
+    width: 300px;
+}
+
+.welcome__info>button {
+    padding: 10px;
+    background: linear-gradient(-45deg, #23d5ab, #23a6d5);
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    border: none;
+    outline: none;
+}
+
+@media (max-width: 441px) {
+    .welcome__info>h4, 
+    .welcome__info>h2 {
+        max-width: 250px;
+    }
+
+    .welcome__image {
+        width: 250px;
+    }
+}
