@@ -7,7 +7,7 @@ A mobile-responsive user authentication (sign-in/out/up) application using React
 For cloning and starting the project you have to follow 4 steps.
 
 ## 1/ Clone the repository
-Open your terminal on the directory where you want to clone the project \ and run:
+Open your terminal on the directory where you want to clone the project and run:
 #### `git clone https://github.com/muhidhossain/sign-up.git`
 
 
