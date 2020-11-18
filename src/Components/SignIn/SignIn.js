@@ -30,7 +30,7 @@ const SignIn = () => {
                 <h5>Password</h5>
                 <input type="password" value={password} onChange={event => setPassword(event.target.value)} />
 
-                <Button onClick={signIn}>Sign Up</Button>
+                <Button onClick={signIn}>Sign In</Button>
 
                 <Link className='signIn__signUpLink' to='/signUp'>Create account</Link>
             </div>
