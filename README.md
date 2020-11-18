@@ -47,6 +47,6 @@ export {auth};
 
 ## 4/ yarn start
 
-Run the code:
+Run the code on your terminal:
 #### `yarn start`
 Now the project is ready to go.
