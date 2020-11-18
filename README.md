@@ -43,7 +43,7 @@ const auth = firebase.auth();
 
 export {auth};
 ```
-> Copy this code and replace the firebaseConfig with your Config and put it on firebase.js.
+> Copy this code and replace the firebaseConfig with your Config and put it on firebase.js file under src folder.
 
 ## 4/ yarn start
 
