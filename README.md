@@ -22,7 +22,7 @@ To install all dependency run:
 
 ## 3/ Create a `firebase.js` file under the `src` folder
 
-Open [FIrebase](https://firebase.google.com) and create a project on Firebase and register your app. Then go to project setting and copy the `Config`. And also Enable Email/Password Sign-in method from `Authentication` of your firebase project.
+Open [Firebase](https://firebase.google.com) and create a project on Firebase and register your app. Then go to project setting and copy the `Config`. And also Enable Email/Password Sign-in method from `Authentication` of your firebase project.
 
 ```
 import firebase from 'firebase';
