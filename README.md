@@ -1,7 +1,7 @@
 # About The Project
 
 A mobile-responsive user authentication (sign-in/out/up) application using React and Firebase. 
-[Live Demo](https://sign-up-c83a6.web.app)
+#### [Live Demo](https://sign-up-c83a6.web.app)
 
 ## Steps For cloning and starting the project on your local computer
 
